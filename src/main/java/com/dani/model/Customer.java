@@ -1,5 +1,6 @@
 package com.dani.model;
 
+
 import javax.persistence.*;
 
 @Entity
