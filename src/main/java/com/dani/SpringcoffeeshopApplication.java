@@ -35,12 +35,12 @@ public class SpringcoffeeshopApplication implements CommandLineRunner {
         mocha.setProductName("Mocha");
         mocha.setProductPrice(3.95);
 
-        Product capuccinno = new Product();
-        capuccinno.setProductName("Capuccinno");
-        capuccinno.setProductPrice(4.95);
+        Product americano = new Product();
+        americano.setProductName("Americano");
+        americano.setProductPrice(4.95);
 
         productRepository.save(mocha);
-        productRepository.save(capuccinno);
+        productRepository.save(americano);
 
 
     }
