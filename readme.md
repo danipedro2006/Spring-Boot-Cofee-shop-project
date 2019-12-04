@@ -1,5 +1,5 @@
 # Coffee Shop Order Management
-> Prototype of web a Coffee Shop Order Management application.
+> Prototype of a web  Coffee Shop Order Management application.
 
 
 ## Table of contents
